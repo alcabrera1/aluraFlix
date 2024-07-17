@@ -1,0 +1,14 @@
+.link{
+    color: var(--blanco);
+    text-transform: capitalize;
+    text-align: center;
+    padding: calc(.5rem - 2px) calc(2rem - 2px);
+    line-height: 1;
+    box-sizing: border-box;
+    border-color: aliceblue;
+    border-radius: .25rem;
+    font-weight: 400;
+    font-size: 1rem;
+    text-decoration: none;
+    
+}
